@@ -5,3 +5,55 @@
 
 font-family: 'Creepster', cursive;
 */
+
+.display-3, h3, h2{
+    
+    font-family: 'Creepster', cursive;
+    
+    
+}
+
+
+.jumbotron{
+    background: url(../img/herobg.jpg);
+        
+    
+    
+    
+}
+
+
+
+.btn-primary{
+    background: #000;
+    color: #f00;
+    border: #f00;
+    
+}
+
+.btn-primary:hover{
+    background: #f00;
+    color: #fff;
+}
+
+.proof{
+    height: 400px;
+    
+}
+
+#p1{
+    background: url(../img/pic2.jpg);
+    background-size: cover;
+}
+#p2{
+    background: url(../img/pic5.jpg);
+    background-size: cover;
+}
+#p3{
+    background: url(../img/pic10.jpg);
+    background-size: cover;
+}
+
+#cta{
+    background: #000;
+}
